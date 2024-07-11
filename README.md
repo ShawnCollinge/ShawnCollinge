@@ -5,10 +5,10 @@
 [![Website Badge](https://img.shields.io/badge/-shawnc.net-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.shawnc.net/)](https://www.shawnc.net/)
 
 
-- :briefcase: I'm a Software Engineer Intern at **Amazon** incoming Forward Deployed Software Engineer at **Palantir**.
+- :briefcase: I'm a Software Engineer Intern at **Amazon**, and an incoming Forward Deployed Software Engineer intern at **Palantir**.
 - :school: I'm a Senior studying **Computer Science** at **Paul G. Allen School of Computer Science and Engineering**
 - 🔭 I’m currently working on a really cool project for the Software Engineering Career Club at the University of Washington.
-- 🌱 I’m currently learning **System Design**, **Kubernetes**, and some **Machine Learning**.
+- 🌱 I’m currently learning **System Design** and **Django**.
 - ⚡ Fun fact: In my free time I like to play hockey 🏒.
 --- 
 <!--
