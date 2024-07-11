@@ -1,7 +1,7 @@
 ### Hi there, I'm Shawn 👋
 
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-s%2Dcollinge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-collinge/)](https://www.linkedin.com/in/s-collinge/)
+[![Linkedin Badge](https://img.shields.io/badge/-scollinge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-collinge/)](https://www.linkedin.com/in/s-collinge/)
 [![Website Badge](https://img.shields.io/badge/-shawnc.net-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.shawnc.net/)](https://www.shawnc.net/)
 
 
