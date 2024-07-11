@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **System Design**, **Kubernetes**, and some **Machine Learning**.
 - ⚡ Fun fact: In my free time I like to play hockey 🏒.
 --- 
-
+<!--
 ### I'm most comfortable working with: 
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,5 +61,5 @@
 
 
 ---
-
+-->
 [![PageCount](https://hits.dwyl.com/ShawnCollinge/ShawnCollinge.svg?style=flat-square)](http://hits.dwyl.com/ShawnCollinge/ShawnCollinge)
