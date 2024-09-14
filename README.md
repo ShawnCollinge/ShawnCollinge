@@ -60,6 +60,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
+[![PageCount](https://hits.dwyl.com/ShawnCollinge/ShawnCollinge.svg?style=flat-square)](http://hits.dwyl.com/ShawnCollinge/ShawnCollinge)
 ---
 -->
-[![PageCount](https://hits.dwyl.com/ShawnCollinge/ShawnCollinge.svg?style=flat-square)](http://hits.dwyl.com/ShawnCollinge/ShawnCollinge)
