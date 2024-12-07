@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-shawnc.net-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://shawnc.net/)](https://shawnc.net/)
 
 
-- :briefcase: I'm a Forward Deployed Software Engineer intern at **Palantir**, previously interned at **Amazon**.
+- :briefcase: I've previously interned as an FDSE at **Palantir** and SDE at **Amazon**.
 - :school: I'm a Senior studying **Computer Science** at the **Paul G. Allen School of Computer Science and Engineering**.
 - 🔭 I’m currently working on a really cool project for the Software Engineering Career Club at the University of Washington.
 - 🌱 I’m currently learning **System Design** and **Django**.
