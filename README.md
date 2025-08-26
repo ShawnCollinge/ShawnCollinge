@@ -5,10 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/-shawnc.net-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://shawnc.net/)](https://shawnc.net/)
 
 
-- :briefcase: I've previously interned as an FDSE at **Palantir** and SDE at **Amazon**.
+- :briefcase: I'm currently working at **Meta** as a Software Engineer. I've previously interned as an FDSE at **Palantir** and SDE at **Amazon**.
 - :school: I just graduated with a degree in **Computer Science** from the **Paul G. Allen School of Computer Science and Engineering**.
-- 🔭 I’m currently working on a really cool project for the Software Engineering Career Club at the University of Washington.
-- 🌱 I’m currently learning **System Design** and **Django**.
 - ⚡ Fun fact: In my free time I like to play ice hockey 🏒, snowboard 🏂, and mountain bike 🚲.
 --- 
 <!--
