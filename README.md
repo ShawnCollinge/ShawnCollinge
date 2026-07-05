@@ -2,7 +2,6 @@
 
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-scollinge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-collinge/)](https://www.linkedin.com/in/s-collinge/)
-[![Website Badge](https://img.shields.io/badge/-shawnc.net-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://shawnc.net/)](https://shawnc.net/)
 
 
 - :briefcase: I'm currently working at **Meta** as a Software Engineer. I've previously interned as an FDSE at **Palantir** and SDE at **Amazon**.
